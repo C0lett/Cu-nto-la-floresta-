@@ -1,7 +1,7 @@
 # index.html
 <html>
 <head>
-<title>La aventura de Luna por la Floresta</title>
+<h1>La aventura de Luna por la Floresta</h1>
 </head>
 <body style="background-color:#DCC5E8">
 <p>-En un reino encantado, donde los árboles susurraban secretos y las flores cantaban melodías, vivía una joven llamada Luna. Luna era una niña curiosa y aventurera, siempre ansiosa por explorar los misterios de la floresta. Un día, mientras paseaba por el bosque, se encontró con un pequeño duende llamado Brillo. Brillo era un duende travieso y juguetón, que siempre estaba dispuesto a ayudar a los demás. Luna y Brillo se hicieron amigos rápidamente y comenzaron a explorar juntos la floresta.Un día, mientras caminaban por un sendero oculto, se encontraron con un árbol antiguo y majestuoso. El árbol, llamado Árbol de la Sabiduría, era conocido por sus poderes mágicos. Luna y Brillo se acercaron al árbol y le pidieron que les revelara sus secretos. El árbol, con una voz suave y profunda, les dijo que la verdadera sabiduría se encontraba en la naturaleza y que debían aprender a escuchar y observar.</p>
